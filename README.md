@@ -13,5 +13,5 @@ This contains everything you need to run your app locally.
 3. Run the app:
    `npm run dev`
 
-Truy cập: blockchain.tt.edu.vn (Bằng trình duyệt đã đăng nhập Google sẵn)
-Hướng dẫn chi tiết: setupblockchain.tt.edu.vn (Để xem hướng dẫn chi tiết)
+Truy cập: http://blockchain.tt.edu.vn/ (Bằng trình duyệt đã đăng nhập Google sẵn)
+Hướng dẫn chi tiết: http://setupblockchain.tt.edu.vn/  (Để xem hướng dẫn chi tiết)
