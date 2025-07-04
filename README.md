@@ -1,5 +1,14 @@
-# tt-blockchain-lab
-TT Blockchain Lab!: Nền tảng học tập và trải nghiệm tương tác về công nghệ blockchain. Khám phá các khái niệm từ cơ bản đến nâng cao, bao gồm sinh khóa, các loại ví, giao dịch, sàn giao dịch, vòng đời token, và các demo trực quan về blockchain. Đồng thời cập nhật tin tức và cảnh báo lừa đảo. Dành cho mục đích giáo dục.
+# Run and deploy your AI Studio app
 
-Truy cập: http://blockchain.tt.edu.vn/ (Trên trình duyệt đã đăng nhập google để trải nghiệm)
-Truy cập: http://setupblockchain.tt.edu.vn/ (Để xem hướng dẫn sử dụng chi tiết)
+This contains everything you need to run your app locally.
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
